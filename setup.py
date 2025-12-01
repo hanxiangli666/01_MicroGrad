@@ -2,7 +2,7 @@ import setuptools
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
-
+#write your setup code here
 setuptools.setup(
     name="micrograd",
     version="0.1.0",
